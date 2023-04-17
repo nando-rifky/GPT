@@ -1,25 +1,25 @@
-title: Hacker Plus
-author: CaptainIRS
-description: The Hacker Plus Theme
+title: GPT Prompt
+author: Nando Rifky
+description: Nando Rifky
 google_analytics:
 google_site_verification_content: 
-disqus_forum_shortname: captainirs-github-io
+disqus_forum_shortname: nandorifky
 
 #Usernames and badges
 htb_badge_no:
 thm_badge_no:
 show_thm_htb_badges_in_nav: false
-github_username: CaptainIRS
+github_username: nando-rifky
 gitlab:
 medium:
 stackoverflow:
 hacker_news:
-linkedin: rinish-sam
+linkedin: nandorifky
 twitch:
 youtube:
-twitter: CaptainIRS
-facebook:
-instagram:
+twitter: 
+facebook: nando.rifky.39
+instagram: nando.rifky
 reddit:
 pinterest:
 telegram:

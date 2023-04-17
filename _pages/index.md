@@ -52,37 +52,37 @@ layout: default
 
 ## Twitter
 
-- - - 📈Optimasi Profil Twitter
-- - - 👋Menulis Tweet & Thread
-- - - 📶Memanfaatkan Trend Twitter
-- - - 🐤Membuat Iklan Di Twitter
-- - - 😁Membuat Tweet Jadi Viral
-- - - 📈Optimasi Growth Twitter
+- 📈Optimasi Profil Twitter
+- 👋Menulis Tweet & Thread
+- 📶Memanfaatkan Trend Twitter
+- 🐤Membuat Iklan Di Twitter
+- 😁Membuat Tweet Jadi Viral
+- 📈Optimasi Growth Twitter
 
 ## TikTok
 
-- - - 🎦Menulis Script Tiktok Ads
-- - - ⛹️‍♂️Riset Audiens Anda Di Tiktok
-- - - 🕺Menulis Ide Konten Tiktok Yang Menarik
+- 🎦Menulis Script Tiktok Ads
+- ⛹️‍♂️Riset Audiens Anda Di Tiktok
+- 🕺Menulis Ide Konten Tiktok Yang Menarik
 
 ## Social media
 
-- - 🗣️Brainstorming Topik Untuk Webinar / Workshop
-- - 💥Menulis Headline Yang Menarik Untuk Konten Sosial Media
-- - 🖼️Mendesain Desain Grafis Untuk Konten Sosial Media
-- - 🎨Membuat Moodboard Yang Menarik Untuk Instagram / Pinterest
-- - 🔍Melakukan Riset Hashtag Di Instagram Untuk Menjangkau Lebih Banyak Audiens
+- 🗣️Brainstorming Topik Untuk Webinar / Workshop
+- 💥Menulis Headline Yang Menarik Untuk Konten Sosial Media
+- 🖼️Mendesain Desain Grafis Untuk Konten Sosial Media
+- 🎨Membuat Moodboard Yang Menarik Untuk Instagram / Pinterest
+- 🔍Melakukan Riset Hashtag Di Instagram Untuk Menjangkau Lebih Banyak Audiens
 
 ## Bisnis Secara General
 
-- - ✍️Riset Kompetitor Anda
-- - 💼Membuat Bisnis Plan
-- - 📝Menulis Proposal Untuk Client
-- - ✏️Menulis Visi Perusahaan
-- - 🖊️Menulis Ide Bisnis
-- - 🏦Persiapan Untuk Pitching Investor
-- - 🦹‍♂️Hiring & Leadership
-- - 🗒️Menulis Rangkuman Meeting
+- ✍️Riset Kompetitor Anda
+- 💼Membuat Bisnis Plan
+- 📝Menulis Proposal Untuk Client
+- ✏️Menulis Visi Perusahaan
+- 🖊️Menulis Ide Bisnis
+- 🏦Persiapan Untuk Pitching Investor
+- 🦹‍♂️Hiring & Leadership
+- 🗒️Menulis Rangkuman Meeting
 
 ## Email Marketing
 

@@ -2,19 +2,19 @@
 layout: default
 ---
 
-<h1>CTF Writeups</h1>
+<h1>Prompts List</h1>
 <br>
 
 {{ content }}
 
-{% assign postsByYear = site.writeups | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign postsByYear = site.prompts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 {{ year.name }}
 <br>
 <ul style="padding-top: 0.3em;">
   {% assign categories = year.items | group_by:"category" %}
   {% for category in categories %}
-  <a href="{{ '/' | absolute_url }}writeups/{{ year.name }}/{{ category.name }}">
+  <a href="{{ '/' | absolute_url }}prompts/{{ year.name }}/{{ category.name }}">
     {{ category.name | replace: '-', ' ' }}
   </a>
   <ul style="padding-top: 0.1em;">

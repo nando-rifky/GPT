@@ -35,14 +35,14 @@ layout: default
   <small>{{ page.date | date: "%-d %B %Y" }}</small>
   {% include tags.html %}
   <br>
-  Share this writeup:&nbsp;
+  Share this prompt:&nbsp;
   <a
     href="javascript:window.open('https://www.facebook.com/sharer.php?u={{ page.url | absolute_url }}','Windows','width=650,height=350,toolbar=no,menubar=no,scrollbars=yes,resizable=yes,location=no,directories=no,status=no')"><i
       class="fa fa-facebook-official" aria-hidden="true"></i></a>&nbsp;
   <a
-    href="javascript:window.open('https://twitter.com/intent/tweet?url={{ page.url | absolute_url }}&text=Writeup+for+{{ page.title }}+from+{{ page.category }}+held+on+{{ page.date | date: '%d %B %Y' }}&hashtags=ctf,writeup,{{ page.slug }},{{ page.category }},{{ page.tags | join: ','}}','Windows','width=600,height=500,toolbar=no,menubar=no,scrollbars=yes,resizable=yes,location=no,directories=no,status=no')"><i
+    href="javascript:window.open('https://twitter.com/intent/tweet?url={{ page.url | absolute_url }}&text=Prompt+for+{{ page.title }}+from+{{ page.category }}+held+on+{{ page.date | date: '%d %B %Y' }}&hashtags=ctf,prompt,{{ page.slug }},{{ page.category }},{{ page.tags | join: ','}}','Windows','width=600,height=500,toolbar=no,menubar=no,scrollbars=yes,resizable=yes,location=no,directories=no,status=no')"><i
       class="fa fa-twitter" aria-hidden="true"></i></a>&nbsp;
   <a
-    href="javascript:window.open('https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url }}&text=Writeup+for+{{ page.title }}+from+{{ page.category }}+held+on+{{ page.date }}','Windows','width=650,height=350,toolbar=no,menubar=no,scrollbars=yes,resizable=yes,location=no,directories=no,status=no')"><i
+    href="javascript:window.open('https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url }}&text=Prompt+for+{{ page.title }}+from+{{ page.category }}+held+on+{{ page.date }}','Windows','width=650,height=350,toolbar=no,menubar=no,scrollbars=yes,resizable=yes,location=no,directories=no,status=no')"><i
       class="fa fa-linkedin" aria-hidden="true"></i></a>
 </div>

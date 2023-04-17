@@ -2,7 +2,7 @@
 <nav class="navbar navlinks">
     <button class="navbar-toggler d-flex w-100 justify-content-between collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
-        <span>{{ page.category | replace: '-', ' ' }} Writeups</span>
+        <span>{{ page.category | replace: '-', ' ' }} Prompts</span>
         <i style="float: right;" class="fa fa-bars menu-icon" aria-hidden="true"></i>
     </button>
 
@@ -10,7 +10,7 @@
         <div class="m-1 mt-2">
 {% endif %}
             {% if page.category %}
-            {% assign postsByYear = site.writeups | group_by_exp:"post", "post.date | date: '%Y'" %}
+            {% assign postsByYear = site.prompts | group_by_exp:"post", "post.date | date: '%Y'" %}
             {% for year in postsByYear %}
 
             {% assign categories = year.items | group_by:"category" %}

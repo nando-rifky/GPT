@@ -42,7 +42,7 @@ collections:
    pages:
       output: true
       permalink: /:name
-   writeups:
+   prompt:
       output: true
    solutions:
       output: true

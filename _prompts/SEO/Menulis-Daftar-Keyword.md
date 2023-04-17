@@ -2,7 +2,7 @@
 layout: prompt
 category: SEO
 chall_description: https://nandorifky.com/wp-content/uploads/2023/04/cropped-Nando-Rifky-Header.png
-points: 12
+points: 1
 solves: 1233
 date: 2023-04-14
 comments: false

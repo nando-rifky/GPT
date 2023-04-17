@@ -2,7 +2,7 @@
 layout: prompt
 category: SEO
 chall_description: https://nandorifky.com/wp-content/uploads/2023/04/cropped-Nando-Rifky-Header.png
-points: 14
+points: 2
 solves: 1233
 date: 2023-04-14
 comments: false
@@ -10,15 +10,19 @@ tags: SEO ChatGPT
 ---
 
 ### FILL-IN-THE-BLANK PROMPTS
+
 ```
 Tuliskan artikel sepanjang [jumlah kata] tentang [topik], yang merinci [manfaat] dari [produk] bagi [audiens]?
 ```
+
 ```
-Tuliskan artikel sepanjang [jumlah kata] tentang [topik], yang merinci [manfaat] dari [produk] bagi [audiens]?
+Tuliskan  sebuah posting blog yang [mendukung/menentang] [subjek] dari sudut pandang [pelanggan ideal]. Sebelumnya, jelaskan manfaat dari membaca artikel tersebut.
 ```
+
 ```
 Tuliskan  artikel sepanjang [jumlah kata] dengan nada [profesional/emosional/menarik/menyenangkan] yang menjelaskan manfaat dari [topik] bagi [pembaca]. Artikel tersebut harus dimulai dengan menggunakan formula PAS untuk memikat pembaca agar membaca seluruh artikel, dan mencantumkan panggilan aksi di paragraf terakhir yang menyebutkan [penawaran].
 ```
+
 ### OPEN-ENDED PROMPTS
 
 1. "Tuliskan postingan blog tentang manfaat dari [produk/layanan/ide] dan bagaimana hal itu dapat meningkatkan [area spesifik kehidupan/bisnis]?"

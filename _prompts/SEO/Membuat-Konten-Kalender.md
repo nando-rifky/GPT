@@ -23,7 +23,7 @@ Bantu saya dengan daftar inisiatif pada content distribution plan untuk [URL].
 
 ## OPEN-ENDED **PROMPTS**
 
-1. "Buatkan kalender konten untuk [bulan/triwulan/tahun] depan yang mencakup [jumlah spesifik] tulisan blog, [jumlah spesifik] konten media sosial, dan [jumlah spesifik] email newsletter?"
+1. "Buatkan kalender konten untuk [bulan/triwulan/tahun] depan yang mencakup [jumlah spesifik] tulisan blog, [jumlah spesifik] konten media sosial, dan [jumlah spesifik] email newsletter dengan topik [topik]?"
 2. "Buatkan  daftar [topik/kata kunci] yang relevan dengan [industri/niche/audiens target] saya dan dapat digunakan untuk membuat berbagai jenis konten?"
 3. "Berikan saran untuk jenis konten tertentu yang harus dibuat, seperti infografis, video, webinar, atau e-book, dan tunjukkan channel mana yang harus digunakan untuk membagikannya?"
 4. "Identifikasikan tanggal dan acara penting yang relevan dengan bisnis saya dan sarankan ide konten yang dapat terkait dengan tanggal-tanggal tersebut?"
@@ -35,4 +35,4 @@ Bantu saya dengan daftar inisiatif pada content distribution plan untuk [URL].
 10. "Bantu saya melacak dan menganalisis performa konten saya dan sarankan cara untuk mengoptimalkannya agar mendapatkan engagement dan konversi yang lebih baik?
 
 ## CONTOH PENGGUNAAAN
-![Branching](https://iili.io/HvkU0Xe.png)
+![Branching](https://iili.io/HvkmPXj.png)

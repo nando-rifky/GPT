@@ -2,13 +2,13 @@
 layout: prompt
 category: SEO
 chall_description: https://nandorifky.com/wp-content/uploads/2023/04/cropped-Nando-Rifky-Header.png
-points: 1
-solves: 1233
-date: 2023-04-14
+points: "1"
+solves: "1233"
+date: 2023-04-13 17:00:00 +0000
 comments: false
 tags: SEO ChatGPT
----
 
+---
 ```
 Buatlah daftar 10 ide kata kunci tentang [topik].
 

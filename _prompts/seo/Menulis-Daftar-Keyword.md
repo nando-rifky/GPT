@@ -1,12 +1,9 @@
 ---
-layout: prompt
-category: SEO
-chall_description: https://i.imgur.com/AVkxBbO.png
-points: 123
-solves: 1234
-date: 2023-04-24
+layout: blog
+title: Menulis Daftar Keyword
+tags: SEO ChatGPT
 comments: true
-tags: seo
+date: 2023-04-14
 ---
 
 ```

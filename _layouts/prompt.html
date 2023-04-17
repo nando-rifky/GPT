@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<a href="{{ page.caetgory.url }}"><h5 class="mt-0 mb-2">{{ page.category | replace: '-', ' ' }}</h5></a>
+<a href="{{ page.category.url }}"><h5 class="mt-0 mb-2">{{ page.category | replace: '-', ' ' }}</h5></a>
 <h1 class="d-flex w-100 justify-content-between"><span>{{ page.title }}</span> <span class="points"> [{{ page.points }}] </span></h1>
 
 {% if page.chall_description %}

@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<h5 class="mt-0 mb-2">{{ page.category | replace: '-', ' ' }}</h5>
-<h1 class="d-flex w-100 justify-content-between"><span>{{ page.title }}</span> <span class="points"> [{{ page.points }} pts] </span></h1>
+<a href="{{ page.caetgory.url }}"><h5 class="mt-0 mb-2">{{ page.category | replace: '-', ' ' }}</h5></a>
+<h1 class="d-flex w-100 justify-content-between"><span>{{ page.title }}</span> <span class="points"> [{{ page.points }}] </span></h1>
 
 {% if page.chall_description %}
-<img style="display: none;" src="{{ page.chall_description }}"" alt=" Challenge Description">
+<img style="display: none;" src="{{ page.chall_description }}" alt=" Challenge Description">
 <div id="desc_modal" class="modal fade" tabindex="-1" role="dialog">
   <div class="modal-dialog modal-xl">
     <div class="modal-content">
@@ -29,7 +29,7 @@ layout: default
 
 {{content}}
 
-<h4><a href="https://nandorifky.com/prompts">Back to Prompt List</a></h4>
+<h4><a href="https://gpt.nandorifky.com/prompts">Back to Prompt List</a></h4>
 <div id="share-links">
   <span id="divider-line">____</span>
   <br><br>

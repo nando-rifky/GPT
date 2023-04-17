@@ -9,12 +9,12 @@ layout: default
 
 {% assign postsByYear = site.prompts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
-{{ year.name }}
+{{ category.name }}
 <br>
 <ul style="padding-top: 0.3em;">
   {% assign categories = year.items | group_by:"category" %}
   {% for category in categories %}
-  <a href="{{ '/' | absolute_url }}prompts/{{ year.name }}/{{ category.name }}">
+  <a href="{{ '/' | absolute_url }}prompts/{{ category.name }}">
     {{ category.name | replace: '-', ' ' }}
   </a>
   <ul style="padding-top: 0.1em;">

@@ -4,9 +4,9 @@ layout: default
 
 ## Intro ChatGPT
 
-- 🤔Apa itu ChatGPT?
-- 🤖13 Tipe Perintah Di ChatGPT
-- 💡Bagaimana Cara Kerja ChatGPT
+- 🤔[Apa itu ChatGPT?](https://gpt.nandorifky.com/knowledge/apa-itu-chatgpt/)
+- 🤖[13 Tipe Perintah Di ChatGPT](https://gpt.nandorifky.com/knowledge/tipe-perintah-di-chatgpt/)
+- 💡[Bagaimana Cara Kerja ChatGPT](https://gpt.nandorifky.com/knowledge/cara-kerja-chatgpt/)
 
 ## Membangun Online Funnel
 

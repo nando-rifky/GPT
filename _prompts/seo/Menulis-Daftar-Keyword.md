@@ -1,9 +1,12 @@
 ---
-layout: blog
-title: Menulis Daftar Keyword
-tags: SEO ChatGPT
-comments: true
+layout: prompt
+category: SEO
+chall_description: tes tes tes tes tes tes tes
+points: 1
+solves: 1233
 date: 2023-04-14
+comments: false
+tags: SEO ChatGPT
 ---
 
 ```

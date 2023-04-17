@@ -1,6 +1,6 @@
 ---
 layout: prompt
-category: seo
+category: SEO
 chall_description: https://i.imgur.com/AVkxBbO.png
 points: 123
 solves: 1234

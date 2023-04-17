@@ -16,8 +16,6 @@
             {% assign categories = year.items | group_by:"category" %}
             {% for category in categories %}
             {% if category.name == page.category %}
-
-            <small class="m-2">{{ year.name }}</small>
             
             <ul style="padding-top: 0.1em;">
                 {% for post in category.items %}

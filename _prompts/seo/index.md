@@ -1,7 +1,7 @@
 ---
 layout: ctf_overview
 title: SEO
-category: seo
+category: SEO
 date: 2023-04-17
 ---
 

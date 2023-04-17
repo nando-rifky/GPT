@@ -9,6 +9,11 @@ comments: false
 tags: SEO ChatGPT
 
 ---
+
+**NB:** *Ubah kata dalam tanda "[ ]"
+
+## FILL-IN-THE-BLANK **PROMPTS**
+
 ```
 Buatlah daftar 10 ide kata kunci tentang [topik].
 
@@ -29,5 +34,5 @@ Berikan daftar topik yang relevan terkait dengan [topik].
 Berikan 10 long tail keyword terkait dengan [topik]. Cocokkan setiap kata kunci dengan salah satu dari 4 jdari search intent
 ```
 
-### Contoh Penggunaan
+## CONTOH PENGGUNAAN
 ![Branching](https://iili.io/Hveyk7t.png)

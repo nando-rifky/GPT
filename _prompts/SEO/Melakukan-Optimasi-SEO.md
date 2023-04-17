@@ -2,14 +2,16 @@
 layout: prompt
 category: SEO
 chall_description: https://nandorifky.com/wp-content/uploads/2023/04/cropped-Nando-Rifky-Header.png
-points: 2
+points: 3
 solves: 1233
 date: 2023-04-14
 comments: false
 tags: SEO ChatGPT
 ---
 
-### FILL-IN-THE-BLANK PROMPTS
+**NB:** *Ubah kata dalam tanda "[ ]"
+
+## FILL-IN-THE-BLANK **PROMPTS**
 
 ```
 Berikan daftar 10 ide kata kunci pada [topik].
@@ -65,5 +67,5 @@ Tuliskan URL yang user-friendly untuk kata kunci ini pada domain [domain] untuk 
 Tulis daftar target audiens dengan detail persona untuk kata kunci [kata kunci].
 ```
 
-### CONTOH PENGGUNAAAN
+## CONTOH PENGGUNAAAN
 ![Branching](https://iili.io/HvkU0Xe.png)

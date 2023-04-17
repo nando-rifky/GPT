@@ -9,7 +9,9 @@ comments: false
 tags: SEO ChatGPT
 ---
 
-### FILL-IN-THE-BLANK PROMPTS
+**NB:** *Ubah kata dalam tanda "[ ]"
+
+## FILL-IN-THE-BLANK **PROMPTS**
 
 ```
 Tuliskan artikel sepanjang [jumlah kata] tentang [topik], yang merinci [manfaat] dari [produk] bagi [audiens]?
@@ -23,7 +25,7 @@ Tuliskan  sebuah posting blog yang [mendukung/menentang] [subjek] dari sudut pan
 Tuliskan  artikel sepanjang [jumlah kata] dengan nada [profesional/emosional/menarik/menyenangkan] yang menjelaskan manfaat dari [topik] bagi [pembaca]. Artikel tersebut harus dimulai dengan menggunakan formula PAS untuk memikat pembaca agar membaca seluruh artikel, dan mencantumkan panggilan aksi di paragraf terakhir yang menyebutkan [penawaran].
 ```
 
-### OPEN-ENDED PROMPTS
+## OPEN-ENDED **PROMPTS**
 
 1. "Tuliskan postingan blog tentang manfaat dari [produk/layanan/ide] dan bagaimana hal itu dapat meningkatkan [area spesifik kehidupan/bisnis]?"
 2. "Tuliskan  postingan yang merinci tren teratas dalam [industri/niche] dan memberikan wawasan yang dapat diterapkan tentang bagaimana tetap unggul dalam permainan?"
@@ -36,5 +38,5 @@ Tuliskan  artikel sepanjang [jumlah kata] dengan nada [profesional/emosional/men
 9. "Tuliskan postingan yang mengatasi kesalahpahaman atau mitos umum tentang [topik/industri] dan memberikan informasi yang akurat untuk menghilangkan kesalahpahaman tersebut?"
 10. "Tuliskan  postingan yang memaparkan profil dari [tokoh terkemuka/inovator] di [industri/niche] dan memberikan wawasan tentang lintasan karir mereka, pencapaian, dan strategi keberhasilan mereka?"
 
-### CONTOH PENGGUNAAAN
+## CONTOH PENGGUNAAAN
 ![Branching](https://iili.io/HvkBfls.png)

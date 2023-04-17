@@ -8,10 +8,6 @@ layout: default
 - 🤖13 Tipe Perintah Di ChatGPT
 - 💡Bagaimana Cara Kerja ChatGPT
 
-## Affiliate
-- 🛒Cara Affiliate di Tiktok
-- 🚧Cara Affiliate di Website Marketernesia ( Coming Soon Week 1 April 2023 )
-
 ## Membangun Online Funnel
 
 - 💡Menulis Ide Produk

@@ -3,8 +3,8 @@ layout: default
 ---
 
 ## NGARANG
-- ✍️ [Cerpen **(with Dialog)**](https://gpt.nandorifky/private/cerpen-dialog.html)
-- ✍️ [Cerpen **(non Dialog)**](https://gpt.nandorifky/private/cerpen-non-dialog.html)
+- ✍️ [Cerpen **(with Dialog)**](https://gpt.nandorifky.com/private/cerpen-dialog.html)
+- ✍️ [Cerpen **(non Dialog)**](https://gpt.nandorifky.com/private/cerpen-non-dialog.html)
 
 ## Artikel
 - 💡Menulis Ide Produk

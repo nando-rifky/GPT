@@ -6,7 +6,7 @@ points: 123
 solves: 1234
 date: 2023-04-24
 comments: true
-tags: test crypto
+tags: seo
 ---
 
 ```

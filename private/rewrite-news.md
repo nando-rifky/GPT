@@ -17,4 +17,4 @@ Berikut artikelnya:
 [PASTE ARTIKEL DISINI]
 ```
 
-**NB:** *Ubah kata dalam tanda "[]"
+**NB:** *Ubah kata dalam tanda "[ ]"
